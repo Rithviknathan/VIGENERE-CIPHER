@@ -96,7 +96,7 @@ STEP-8: Repeat the above steps to generate the entire cipher text.
  }
 ```
 ## OUTPUT
-![430770950-3895973e-46c9-4e62-a56c-929ed63951b2](https://github.com/user-attachments/assets/391a6209-fd5c-40d7-901e-dedf6f4ee392)
+<img width="293" height="227" alt="image" src="https://github.com/user-attachments/assets/bdae316c-7616-4c57-8625-9e513dee77fe" />
 
 ## RESULT
 Thus the program is executed successfully.
